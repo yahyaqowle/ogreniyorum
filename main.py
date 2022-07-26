@@ -1,8 +1,8 @@
 print("hello World")
-print("im Yaya Qowle")
+print("im Qowle")
 
-first_name = "Yaya"
-last_name = "Qowle"
+first_name = "dost"
+last_name = "ayse"
 full_name = first_name +" "+ last_name
 print("Hello "+full_name)
 print(type(full_name))

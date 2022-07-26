@@ -12,12 +12,18 @@ age += 1
 print("Your age is: "+str(age))
 print(type(age))
 
-height = 1.75
+height = 15.75
 print('Your height is: '+str(height)+'meter')
 print(type(height))
 
+weight = 500
+print('Your weight is: '+str(weight)+"kg")
+
 human = True
-animal = False
-#earth = human + animal
+animal = True
+internet = False
+earth = human + animal
 print("Are you a human: "+str(human))
+print("Is human and animal live in earth: "+str(earth))
+
 

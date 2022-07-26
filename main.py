@@ -5,7 +5,7 @@ first_name = "Yaya"
 last_name = "Qowle"
 full_name = first_name +" "+ last_name
 print("Hello "+full_name)
-#print(type(full_name))
+print(type(full_name))
 
 age = 23
 age += 1

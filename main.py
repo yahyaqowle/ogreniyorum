@@ -83,8 +83,8 @@ print(name6*3)
 # print(name6*5)
 
 #5.type cast #Day2 27/7/22
-#Eng/type casting = convert the data type of a value to another data type
-#Som/Guurash(typecast) = qiyamka nooca xoggeed ayuu badalaa oo uu ku badala nooc kale oo xog ah
+#Eng/ type-casting = convert the data type of a value to another data type
+#Som/ Guurash(typecast) = qiyamka nooca xoggeed ayuu badalaa oo uu ku badala nooc kale oo xog ah
 
 x = 1    #int
 y = 2.0    #float
@@ -100,10 +100,9 @@ z2 = 6
 
 y2 = int(y2) #for making permanent change to change y2 into integer
 z2 = int(z2)
-#x2
 
 print(x2)
-print(y2)       #it's not permanent to convert y2 to x2
+print(y2)       # print(int(y2) it's not permanent to convert y2 to x2
 print(z2*6)
 
 #example3 changing values of #string and #integer into float(decimal) type
@@ -111,13 +110,22 @@ print(z2*6)
 x3 = 3
 y3 = 5.0
 z3 = "9"
-
-
+#ex.4 if you want to convert from float to string just replace float to str and vice versa
+x3 = str(x3)
+y3 = str(y3)
+z3 = str(z3)
 print(x3)
 print(y3)
-print(z3)
+print(z3*10)
 
+#example5
+x4 = 5    #int
+y4 = 6.0  #float
+z4 = 11   #str
 
+print("X4 is "+str(x4))
+print("Y4 "+str(y4))
+print("Z4 "+str(z4))
 
 
 

@@ -100,7 +100,7 @@ z2 = 6
 
 y2 = int(y2) #for making permanent change to change y2 into integer
 z2 = int(z2)
-x2
+#x2
 
 print(x2)
 print(y2)       #it's not permanent to convert y2 to x2

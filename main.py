@@ -155,6 +155,16 @@ z7 = 36
 print(round(pi7))
 print(math.ceil(pi7))  #rounding up
 print(math.floor(pi7))
+print(abs(pi7))          #absolute(abs) value function
+print(pow(pi7, 3))       #power in math ex. 3 to the power of 3 is 27
+print(math.sqrt(pi7))    #square root of a value its under math module using (math.)
+print(math.sqrt(69))     #hehe gotchuu, noice with 420
+print(math.sqrt(420))
+print(max(x7,y7,z7))
+print(min(x7,y7,z7))
+
+#day3 19:59 28/7/22
+#string slicing
 
 
 

@@ -1,9 +1,9 @@
 # Day1 #26/7/22
 # Eng/ variable # Som/ doorsoome/wax-matale
 
-# print("hello World")
-# print("im Qowle")
-# print(" I will use for my comments both English and Somali")
+print("hello World")
+print("im Qowle")
+print(" I will use for my comments both English and Somali")
 
 first_name = "dost"
 last_name = "ayse"
@@ -195,49 +195,5 @@ print(website8[slice])
 # Day3 finish at 23:37 28/7/22
 
 
-# Day4 start 15:44 29/7/22
-# 9.if statement = a bloc of code that will execute if it's condition is true
-# if statement, elif statement, else statement
-
-age9 = int(input("How old are you?: "))
-
-if age9 >= 15:
-    print("You are an adult!")
-if age9 >= 139:
-    print("No way")
-    print("You are in a deadbed!")
-elif age9 == 100:
-    print("Congrats you lived a century!")
-elif age9 == 50:
-    print("You lived half a century!")
-elif age9 == 15:
-    print("You are an adult under islamic law!")
-elif age9 == 18:
-    print("You are an adult under western law/constitutions!")
-elif age9 < 5:
-    print("You are joking right!")
-    print("You are can't even count your fingers!")
-else:
-    print("You are ciyaal!")
-
-# Day4 16:19 29/7/22
-# 10.logical operators(and,or,not) = used to check if two or more conditional statements is true
-
-# example using `and` `or` of logical(l) operators
-temp10 = int(input("What is the temperature outside?: "))
-
-if temp10 >= 15 and temp10 <= 30:
-    print("The temperature is quite nice")
-    print("You lazy ass go outside!")
-elif temp10 < 10 or temp10 > 35:
-    print("Stay inside!")
-
-# logical operators `not` example
-temps10 = int(input("Hava durumu nasil?: "))
-
-if not(temps10 >= 50 and temps10 <= 66):
-    print("Cay kaynatabilirsin amk")
-elif not(temps10 < 25 or temps10 > 45):
-    print("Yuzmek icin muazzam")
 
 

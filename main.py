@@ -2,7 +2,7 @@
 # Eng/ variable # Som/ doorsoome/wax-matale
 
 # print("hello World")
-# print("im Qowle")
+# print("im Yaanyuur")
 # print(" I will use for my comments both English and Somali")
 
 first_name = "dost"
@@ -187,9 +187,9 @@ print(reversed_name8)
 #8.1.string slicing
 # slice # string slicing consist of 2(index,slice) above we saw index nd examp's
 
-website8 = "htpps://yahyaqowle.me"  #excluding except website name (yahyaqowle)
+website8 = "htpps://google.com"  #excluding except website name (yahyaqowle)
 
-slice = slice(8,-3)       #its just like indexing except using ',' instead of ':'
+slice = slice(8,-4)       #its just like indexing except using ',' instead of ':'
 
 print(website8[slice])
 # Day3 finish at 23:37 28/7/22

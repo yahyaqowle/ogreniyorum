@@ -369,153 +369,36 @@ aargud f.mg1 (-day, -dday) 1. Ka aa.: cid dakano ay gashay ka gudid.
 
 aargudasho m.dh eeg aargudo. ld aargudid. aargudid m.f.dh eeg aargud. ld aargudasho, aargudis.
 
-aargudis m.dh ld aargudid. aargudo f.mg3 (-utay, -udatay) ld aargud.
 
-aarid m.f.dh eeg aar². ld aaris.
-
-aaris m.dh ld aarid.
-
-aarnimo m.dh Aar ahaansho. 
-
-aarsashaddoon m.l ld aardoon.
-
-aarsasho m.f.dh eeg aarso. ld aarsi.
-
-aarsi m.l ld aarsasho.
-
-aarso f.mg3 (-saday, -satay) Ka aa.: cid, cid kale oo waxyeello u geysatay ka gudasho. 
-
-aas¹ m.l 1. Xabaalidda meydka; ld aasid. 
-         2. Marka aasku madoobaado: waqtiga qorraxdu dhacdo ee iftiinkeeda la waayo; himhiimow, cilcillow. 
-
-aas² f.g1 (-say, -stay) Wax dhulka ku xabaalid (dad dhintay); duugid. 
-
-aasaas¹ m.l ld asaas¹. asaasid. aasaas² f.g1 (-say, -stay) ld asaas².
-
-aasaasan¹ f.mg1 (-smay, -santay) ld asaasan¹.
-
-aasaasan² f.mg4 (-snaa,-snayd) ld asaasan².
-
-aasaasi m.l ld asaasi.
-
-aasaasid m.dh ld asaasid.
-
-aasaasmid m.dh ld asaasmid.
-
-aasaasnaan m.dh ld asaasnaan.
-
-aasaasnaansho m.l/dh ld asaasnaan.
-
-aasan¹ f.mg1 (-smay, -sanaty; -smi) Wax cidi aastay noqosho. 
-
-aasan² f.mg4 (-snaa, -snayd) Wax la aasay ahaansho. 
-
-aashuun m.l (-uummo/-uunno, m.dh) Weel tebedda u eg, dhoobo ka samaysan oo biyaha lagu shubto. ld ashuun.
-
-aasid m.f.dh eeg aas². ld aas¹.
-
-aasmid m.f.dh eeg aasan¹. 
-
-aasnaan m.f.dh eeg aasan². ld aasnaansho.
-
-aasnaansho m.l/dh eeg aasnow. ld aasnaan.
-
-aasnow f.mg3 (-naaday, -naatay) Wax aasmay noqosho. 
-
-aaway e.we Erey weyddiimeed, oo sida falka, mararka qaarkood, isu rogroga (sida dh.: awday, w.: aawaye) 
-           oo micnihiisu yahay “xaggee laga helaa?” “mee?”. ld aawaye, away, awday.
-
-aawaye e.we ld aaway.
-
-aawi f.g1/2 (-iyay, -iday/-isay; -iyi) Wax ururin. 
-
-aawil¹ m.l ld awaal¹, awaalid.
-
-aawil² f.mg1 (-ilay, -ishay) Wax dhicitaankooda ama imaatinkooda filid. ld awaal².
-
-aawilid m.f.dh ld awaalid.
-
-aawin m.f.dh eeg aawi. ld aawis.
-
-aawis m.l ld aawin.
-
-aawo m.dh Erey aan keligii istaagin in qodob lahaansho lagu daro mooyee, sida: -diis, -deed, -dood iwm oo macnahiisu yahay qof ama wax dartood. 
-          Tus. “Cali, Caasha aawadeed ayuu halkan u yimid”. ld aw. 
-
-aayad m.dh (-do, m.l) 1. Akhriska ama qoridda quraanka inta u dhexeysa laba joogsi.
-                      2. Wax aan hore loo arki jirin oo yaab leh; mucjiso. 
-
-aayakatalin m.dh Ka tashiga cidi ka tashato mustaqbalkeeda wixii ay ka yeeli lahayd. ld aayakatashi.
-
-aayakatashi m.l (siyaa.) Xaqa uu waddan u leeyahay waddan kale in uu kaga xoroobo waddan shisheeye ee haystay, una doorto dawladda uu rabo. ld aayakatalin.
-
-aayar m.dh.fk Si deggan oo miyir leh. ld aad yar, aadyar.
-
-aayatiin m.l (-nno, m.dh) Xaalad xumaan ama samaan leh oo ay cidi ku dambeyso; ciribdambeed. ld aayo¹.
-
-aayaxumaan m.f.dh eeg aayaxun. ld 
-
-aayaxumaansho, aayaxumi, aayaxumo.
-
-aayaxumaansho m.l/dh ld aayaxumaan.
-
-aayaxumi m.dh ld aayaxumaan.
-
-aayaxumo m.dh ld aayaxumaan.
-
-aayaxun f.mg4 (-umaa, -umayd) Cid aan aayo ficnayn ahaansho. 
-
-aaye m.dh ld aayo².
-
-aayid m.f.dh eeg ay². ld aayis.
-
-aayis m.dh ld aayid.
-
-aayo¹ m.l ld aayatiin.
-
-aayo² m.dh (-ooyin, m.l) 1. Afo waxa ay u tahay carruurta ninkeedu ka dhalay naag kale. 
-                         2. Haweeney qof abtigii ama adeerkii qabo. 
-                         3. Qof waxa ay u tahay hooyadiis walaasheed; habaryar. ld aaye.
-
-aayodhiin m.l (kiim.) Curiye adke ah oo bida midabkiisuna yahay buluug madow kana tirsan haloojiinada (ururka VII ee tusaha kalgalka curiyayaasha). 
-
-aayon m.l ld ayoon.
-
-aayoonayn m.dh (kiim.) Habka soo saaridda ayoonnada. aayoonka haydarojiin m.l eeg asiidh; PH. 
-
-ab¹ m.l.u 1. Awoowyaashii hore oo laga soo jeedo. 2.Abkay ma arag: weligay ma arag. 
-
-ab² m.l.fk A.kay ma arag: weligay ma arag. 
-
-abaab¹ m.l ld abaabid; abab¹; ababid.
-
-abaab² f.mg1 (-bay, -btay) ld abab².
-
-abaabi f.g2 ld ababi.
-
-abaabid m.dh eeg abaab². ld ababid. ld abaab¹, abaabis.
-
-abaabin m.dh ld ababin.
-
-abaabis m.dh ld Abaabid; ababid. ld ababis.
-
-abaabul¹ m.l ld abaabulid.
-
-abaabul² f.g1 (-ulay, -ushay) Si hannaan ama qaab habeysan leh dad u hawlgelin, arrin isku duwid, qabanqaabin. 
-
-abaabulan f.mg4 (-lnaa, -lnayd) Wax la 
-
-abaabulay ahaansho (hawl). 
-
-abaabule m.l (-layaal, m.l/dh) Qof hawl qabanqaabiya; qabanqaabiye. 
-
-abaabulid m.f.dh eeg abaabul². ld abaabul¹.
-
-abaabulnaan m.f.dh eeg abaabulan. ld abaabulnaansho.
-
-abaabulnaansho m.l/dh ld abaabulnaan.
 
 abaad¹ m.l ld abaabid.
+
+abyan¹ m.l 1. Garasho ama dareen, wax silloon ama lala yaabo, ay dhaliyaan; amakaag; ashqaraar. 2. ld abyamid.
+
+abyan² f.mg1 (-amay, -antay; -ami) Ka a.: wax aad ula yaabid. 
+
+abyanaha-logaridam m.l (xis.) Qayb ka mid ah logaridamka tiro ee ah abyoonaha ku yaalla bidixda barta tabanlaha ee ku jirta logaridamka. 
+
+abyane huban m.l (-nayaal ..., m.l/dh) (xis.) Jawaabta abyanka fansaar kasta ee hal doorsoome f(x), 
+                                              ee u dhexeeya laba qiime oo magacaaban ee x: x, iyo x2. 
+
+abyin m.l (-nno, m.dh) (xis.) Habka lagu raadiyo abyanku huban ama aan hubanayn. Abyintu waa weydaarka xigsinaynta. Tusaale ahaan, 
+                              haddii f(x) ay tahay fansaarka ee x oo marka la diiro ku siisa f(x), markaa F(x) waxa la yiraahdaa abyin ama lidka diirane ee f(x). 
+
+abyineed-aan-hubnayn m.l (xis.) Abyanka aan hubanayn ee fansaarka f(x) waa fansaar F(x) oo diiranihiisu leegyahay f(x).
+                                Waxa kale oo loo yaqaan lidka diirane; abyineed. 
+
+abyineed huban m.l eeg abyan huban. 
+
+abyin-jeexeed m.l (-dyo, m.dh) (xis.) Hab lagu sammeeyo abyinaynta taranka laba fansaar iyada oo la adeegsanaayo jidka: 
+                                      u (dv/dx)dx = uv - v (du)dx, oo loo adeegsan karo qiimeynta abyinka ee taran. 
+
+abyood f.mg3 (-ooday, -ootay) Ku a.: ficil isla weyni iyo xadgudub leh cid kula kicid; gardarreysi qof. 
+
+abyoone m.l (-nayaal, m.l/dh) (xis.) Urur ka kooban tirooyinka idil ee togan iyo kuwa taban; 0, 1, 2, 3, 4, ... Abyooneyaasha togan 
+                                     ee 1, 2, 3, 4,... waxa lagu magacaabaa tirooyinka tirsiimo ama kuwa wax lagu tirsado. 
+
+acuudu-billaahi e.d Eray Eebbe looga magan galo wixii la sharaysto. ld cawdu-billaahi.
 
 
 

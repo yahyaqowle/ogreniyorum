@@ -5,7 +5,7 @@
 #         if not line.isspace():
 #             filepath.write(line)
 
-with open("A words Qaamuus.txt","r", encoding='utf-8') as f, open("outfile.txt","w", encoding='utf-8') as outfile:
+with open("correct original A words.txt","r", encoding='utf-8') as f, open("outfile.txt","w", encoding='utf-8') as outfile:
     for i in f.readlines():
         if not i.strip():
             continue

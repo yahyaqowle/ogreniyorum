@@ -1,4 +1,4 @@
-report = open('C words VOCAB.txt', 'w', encoding='utf-8')
+report = open('test A Words vocab.txt', 'w', encoding='utf-8')
 
 with open('change to word.txt', 'r', encoding='utf-8') as f:
     for line in f:

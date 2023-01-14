@@ -5,8 +5,8 @@ print("hello World")
 # print("im Yaanyuur")
 # print(" I will use for my comments both English and Somali")
 
-first_name = "dost"
-last_name = "tost"
+first_name = "Hanad"
+last_name = "Abu suleyman"
 full_name = first_name +" "+ last_name
 print("Hello "+full_name)
 # #to check the type
@@ -287,3 +287,6 @@ print("Hello "+full_name)
 # #        report.write(line.split(' ')[0])
 # #report.close()
 
+earth_is_planet = True
+if earth_is_planet:
+ print("Hayaaay dooliga")

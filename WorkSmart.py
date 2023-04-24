@@ -230,12 +230,12 @@ with open('cleaned_data.txt', 'w') as f:
     # Loop through each line in the file
     for line in lines:
         line = line.strip()
-        if line.startswith('k'):
+        if line.startswith('t'):
             # If the line starts with 'k', it is likely a word line
             if word:
                 # If we have already stored a word and meaning pair,
                 # write it to the file and start over
-                f.write(f'{word}: {meaning}\n\n')
+                f.write(f'{word} {meaning}\n\n')
                 word = ''
                 meaning = ''
             word = line.split()[0]
@@ -244,8 +244,9 @@ with open('cleaned_data.txt', 'w') as f:
             # If the line does not start with 'k', it is likely a meaning line
             meaning += line + ' '
             if line.endswith('.'):
+              # if line.endswith(','):
                 # If the meaning line ends with a full stop, write the word and meaning pair to the file
-                f.write(f'{word}: {meaning}\n\n')
+                f.write(f'{word} {meaning}\n\n')
                 word = ''
                 meaning = ''
         # Add a newline character after the end of a meaning

@@ -90,7 +90,12 @@
 #
 #             return cleaned_text
 #
-# # Read in the raw text
+#
+#
+#
+#
+#
+# #Read in the raw text
 # raw_text = read_raw_text('raw_text.txt')
 #
 # # Clean the text
@@ -218,37 +223,150 @@
 
 
 # Open the unorganized file
-with open('unorganized_data.txt', 'r') as f:
-    lines = f.readlines()
 
-# Initialize variables
-word = ''
-meaning = ''
 
-# Open the file for writing
-with open('cleaned_data.txt', 'w') as f:
-    # Loop through each line in the file
-    for line in lines:
-        line = line.strip()
-        if line.startswith('t'):
-            # If the line starts with 'k', it is likely a word line
-            if word:
-                # If we have already stored a word and meaning pair,
-                # write it to the file and start over
-                f.write(f'{word} {meaning}\n\n')
-                word = ''
-                meaning = ''
-            word = line.split()[0]
-            meaning += ' '.join(line.split()[1:]) + ' '
+
+
+word_meaning_pairs = []
+current_pair = None
+
+with open("unorganized_data.txt", "r") as f:
+    for line in f:
+        if line.startswith("t"):
+            if current_pair is not None:
+                word_meaning_pairs.append(current_pair)
+            current_pair = {"word": line.strip(), "meaning": ""}
         else:
-            # If the line does not start with 'k', it is likely a meaning line
-            meaning += line + ' '
-            if line.endswith('.'):
-              # if line.endswith(','):
-                # If the meaning line ends with a full stop, write the word and meaning pair to the file
-                f.write(f'{word} {meaning}\n\n')
-                word = ''
-                meaning = ''
-        # Add a newline character after the end of a meaning
-        if not line.strip():
-            f.write('\n')
+            if current_pair is not None:
+                current_pair["meaning"] += line.strip() + " "
+                if line.endswith(".\n"):
+                    current_pair["meaning"] = current_pair["meaning"].strip()
+                    word_meaning_pairs.append(current_pair)
+                    current_pair = None
+
+# Add the last current_pair if it exists
+if current_pair is not None:
+    word_meaning_pairs.append(current_pair)
+
+with open("cleaned_data.txt", "w") as f:
+    for i, pair in enumerate(word_meaning_pairs):
+        f.write(pair["word"] + pair["meaning"] + "\n")
+        if i < len(word_meaning_pairs) - 1:
+            f.write("\n")
+
+print("Output saved to cleaned_data.txt")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# word_meaning_pairs = []
+# current_pair = None
+#
+# with open("unorganized_data.txt", "r") as f:
+#     for line in f:
+#         if line.startswith("t"):
+#             if current_pair is not None:
+#                 word_meaning_pairs.append(current_pair)
+#             current_pair = {"word": line.strip(), "meaning": ""}
+#         else:
+#             if current_pair is not None:
+#                 current_pair["meaning"] += line.strip() + " "
+#                 if line.endswith(".\n"):
+#                     current_pair["meaning"] = current_pair["meaning"].strip()
+#                     word_meaning_pairs.append(current_pair)
+#                     current_pair = None
+#
+# # Add the last current_pair if it exists
+# if current_pair is not None:
+#     word_meaning_pairs.append(current_pair)
+#
+# for pair in word_meaning_pairs:
+#     print(pair["word"], pair["meaning"])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# with open('unorganized_data.txt', 'r') as f:
+#     lines = f.readlines()
+#
+# # Initialize variables
+# word = ''
+# meaning = ''
+#
+# # Open the file for writing
+# with open('cleaned_data.txt', 'w') as f:
+#     # Loop through each line in the file
+#     for line in lines:
+#         line = line.strip()
+#         if line.startswith('t'):
+#             # If the line starts with 'k', it is likely a word line
+#             if word:
+#                 # If we have already stored a word and meaning pair,
+#                 # write it to the file and start over
+#                 f.write(f'{word} {meaning}\n\n')
+#                 word = ''
+#                 meaning = ''
+#             word = line.split()[0]
+#             meaning += ' '.join(line.split()[1:]) + ' '
+#         else:
+#             # If the line does not start with 'k', it is likely a meaning line
+#             meaning += line + ' '
+#             if line.endswith('.'):
+#               # if line.endswith(','):
+#                 # If the meaning line ends with a full stop, write the word and meaning pair to the file
+#                 f.write(f'{word} {meaning}\n\n')
+#                 word = ''
+#                 meaning = ''
+#         # Add a newline character after the end of a meaning
+#         if not line.strip():
+#             f.write('\n')

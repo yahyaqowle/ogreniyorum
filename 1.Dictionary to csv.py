@@ -1,6 +1,6 @@
 import codecs
 import codecs
-report = open('E words Qaamuus.csv', 'w', encoding='utf-8')
+report = open('somali dictionary/A words Qaamuus.txt', 'w', encoding='utf-8')
 f = open("E words Qaamuus.txt", "r", encoding='utf-8')
 
 a = f.read().split()

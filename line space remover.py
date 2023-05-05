@@ -7,7 +7,7 @@
 
 
 
-with open("A words Qaamuus.txt","r", encoding='utf-8') as f, open("A words DB.txt","w", encoding='utf-8') as outfile:
+with open("Somali Words/Somali-Dictionary.txt","r", encoding='utf-8') as f, open("Cleaned Somali words/Somali-Dictionary.txt","w", encoding='utf-8') as outfile:
     for i in f.readlines():
         if not i.strip():
             continue

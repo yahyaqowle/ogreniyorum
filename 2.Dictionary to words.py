@@ -18,9 +18,9 @@
 #       # Write the first word to the output file on a separate line
 #       report.write(first_word + '\n')
 
-with open('B words VOCAB.txt', 'w', encoding='utf-8') as report:
+with open('Somali Words/Y words VOCAB.txt', 'w', encoding='utf-8') as report:
   # Open the input file in read mode
-  with open('B words Qaamuus.txt', 'r', encoding='utf-8') as f:
+  with open('somali dictionary/Y words Qaamuus.txt', 'r', encoding='utf-8') as f:
     # Iterate over the lines in the input file
     for line in f:
       # Split the line into a list of words

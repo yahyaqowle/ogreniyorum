@@ -5,7 +5,7 @@ print("hello World")
 # print("im Yaanyuur")
 # print(" I will use for my comments both English and Somali")
 
-first_name = "H"
+first_name = "t"
 last_name = "Abu suleyman"
 full_name = first_name +" "+ last_name
 print("Hello "+full_name)

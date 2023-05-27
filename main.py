@@ -187,7 +187,7 @@ print("Hello "+full_name)
 # #8.1.string slicing
 # # slice # string slicing consist of 2(index,slice) above we saw index nd examp's
 #
-# website8 = "htpps://google.com"  #excluding except website name (yahyaqowle)
+# website8 = "htpps://google.com"  #excluding except website name ()
 #
 # slice = slice(8,-4)       #its just like indexing except using ',' instead of ':'
 #
@@ -290,3 +290,7 @@ print("Hello "+full_name)
 earth_is_planet = True
 if earth_is_planet:
  print("Hayaaay dooliga")
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms

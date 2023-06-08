@@ -290,7 +290,4 @@ print("Hello "+full_name)
 earth_is_planet = True
 if earth_is_planet:
  print("Hayaaay dooliga")
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
+

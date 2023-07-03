@@ -2,7 +2,7 @@
 
 #### Any resource that can help directly or indirectly for us to improve our [Afsoomali](https://github.com/yahyaqowle/Afsoomali) project can be found here.
 
-#### Anything that is beneficial knowledge written in somali and need to be preserved or archived can be found here
+#### Anything that is beneficial knowledge written in Somali and need to be preserved or archived can be found here
 
 # Credits
 
